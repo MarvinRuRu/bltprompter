@@ -18,4 +18,5 @@
 
 *   **Android: Google play:** https://play.google.com/store/apps/details?id=zh.text.sufler
 *   **Android: Rustore:** https://www.rustore.ru/catalog/app/zh.text.sufler
+*   **IOS: AppStore:** https://apps.apple.com/us/app/bltprompter/id6751709289 (Поддержка прекращена на версии 1.0.5)
 *   **Android: 📦:** **[apk, aab](https://github.com/MarvinRuRu/bltprompter/releases/)**
