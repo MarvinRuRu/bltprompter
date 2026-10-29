@@ -18,4 +18,4 @@ Prompter with bluetooth button support
 
 *   **Android: Google play:** https://play.google.com/store/apps/details?id=zh.text.sufler
 *   **Android: Rustore:** https://www.rustore.ru/catalog/app/zh.text.sufler
-*   **Android: 📦 **[apk, aab](https://github.com/MarvinRuRu/bltprompter/releases/)**
+*   **Android: 📦:** **[apk, aab](https://github.com/MarvinRuRu/bltprompter/releases/)**
